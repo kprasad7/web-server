@@ -1,1 +1,1 @@
-web: gunicorn Taskmate.wsgi --log-file -
+web: gunicorn Taskmate.wsgi 
